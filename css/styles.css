@@ -323,10 +323,11 @@ form.form {
 /**
 * (default) pink color
 */
-/*html.pink {
+html.pink {
   animation: fill--pink 2s ease-in-out alternate infinite;
 }
-@keyframes fill--pink {
+
+/*@keyframes fill--pink {
   from {
     background-color: #FFE7EE;
   }
