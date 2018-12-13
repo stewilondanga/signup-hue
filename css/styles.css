@@ -261,11 +261,12 @@ form.form {
   display: none;
 }
 
-/*.form > fieldset .signup__field {
+.form>fieldset .signup__field {
   display: flex;
   flex-flow: column;
 }
-.form > fieldset .signup__field > label,
+
+/*.form > fieldset .signup__field > label,
 .form > fieldset .signup__field > .label,
 .form > fieldset .signup__field > .select-field {
   flex: auto;
