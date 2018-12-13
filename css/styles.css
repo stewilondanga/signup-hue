@@ -508,13 +508,14 @@ h1.blue::after {
   animation: pulse-blue 2s ease alternate infinite;
 }
 
-/*@keyframes pulse-blue {
+@keyframes pulse-blue {
   100% {
     margin-left: 0.5px;
     color: rgba(0, 0, 255, 0.35);
   }
 }
-input.blue:hover {
+
+/*input.blue:hover {
   border-bottom: 2px solid blue;
 }
 input.blue:focus {
