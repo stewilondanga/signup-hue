@@ -483,15 +483,17 @@ html.blue {
   animation: fill--blue 2s ease-in-out alternate infinite;
 }
 
-/*@keyframes fill--blue {
+@keyframes fill--blue {
   from {
     background-color: #e7e7ff;
   }
+
   to {
     background-color: blue;
   }
 }
-button.blue:hover {
+
+/*button.blue:hover {
   background-color: rgba(0, 0, 255, 0.12);
 }
 button.blue:active {
