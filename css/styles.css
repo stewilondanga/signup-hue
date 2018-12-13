@@ -305,11 +305,12 @@ form.form {
   align-self: center;
 }
 
-/*.form > .signup__amazing input[type="checkbox"],
-.form > .signup__amazing > label {
+.form>.signup__amazing input[type="checkbox"],
+.form>.signup__amazing>label {
   cursor: pointer;
 }
-.form > .signup__button {
+
+/*.form > .signup__button {
   flex: auto;
   align-self: flex-end;
 }
