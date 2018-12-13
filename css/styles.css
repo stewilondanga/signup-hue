@@ -560,13 +560,14 @@ h1.purple::after {
   animation: pulse-purple 2s ease alternate infinite;
 }
 
-/*@keyframes pulse-purple {
+@keyframes pulse-purple {
   100% {
     margin-left: 0.5px;
     color: rgba(128, 0, 128, 0.35);
   }
 }
-input.purple:hover {
+
+/*input.purple:hover {
   border-bottom: 2px solid purple;
 }
 input.purple:focus {
