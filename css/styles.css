@@ -427,10 +427,11 @@ fieldset.red:hover {
 /**
 * green color
 */
-/*html.green {
+html.green {
   animation: fill--green 2s ease-in-out alternate infinite;
 }
-@keyframes fill--green {
+
+/*@keyframes fill--green {
   from {
     background-color: #e8ffe8;
   }
