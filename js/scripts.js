@@ -21,7 +21,7 @@ document.getElementById("submit").className = "pink";
 document.getElementById("fav_color").onchange = function() {
   updateColors()
 };
-/*
+
 function updateColors() {
   var x = document.getElementById("fav_color");
   var xcolor = "pink";
