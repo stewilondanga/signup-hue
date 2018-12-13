@@ -197,11 +197,12 @@ button.raised:active {
 /**
 * form
 */
-/*form.form {
+form.form {
   display: flex;
   flex-flow: column wrap;
 }
-.form > h1 {
+
+/*.form > h1 {
   text-transform: uppercase;
   align-self: center;
 }
