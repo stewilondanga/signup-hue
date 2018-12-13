@@ -463,10 +463,11 @@ h1.green::after {
   }
 }
 
-/*input.green:hover {
+input.green:hover {
   border-bottom: 2px solid green;
 }
-input.green:focus {
+
+/*input.green:focus {
   background-color: #e8ffe8;
   border-bottom: 2px solid green;
 }
