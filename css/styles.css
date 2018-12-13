@@ -285,10 +285,11 @@ form.form {
   border: 1px solid #666666;
 }
 
-/*.form > fieldset .signup__field > .label {
+.form>fieldset .signup__field>.label {
   font-weight: bold;
 }
-.form > fieldset .signup__field > .select-field,
+
+/*.form > fieldset .signup__field > .select-field,
 .form > fieldset .signup__field > .field__radio-inputs {
   margin: 12px 0;
 }
