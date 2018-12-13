@@ -545,10 +545,11 @@ html.purple {
   }
 }
 
-/*button.purple:hover {
+button.purple:hover {
   background-color: rgba(128, 0, 128, 0.12);
 }
-button.purple:active {
+
+/*button.purple:active {
   background-color: rgba(128, 0, 128, 0.25);
 }
 h1.purple::after {
