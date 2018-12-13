@@ -327,15 +327,17 @@ html.pink {
   animation: fill--pink 2s ease-in-out alternate infinite;
 }
 
-/*@keyframes fill--pink {
+@keyframes fill--pink {
   from {
     background-color: #FFE7EE;
   }
+
   to {
     background-color: #ffaac3;
   }
 }
-button.pink:hover {
+
+/*button.pink:hover {
   background-color: rgba(252, 81, 133, 0.12);
 }
 button.pink:active {
