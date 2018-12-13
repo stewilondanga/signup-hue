@@ -257,10 +257,11 @@ form.form {
   margin-top: 20px;
 }
 
-/*.form > fieldset legend {
+.form>fieldset legend {
   display: none;
 }
-.form > fieldset .signup__field {
+
+/*.form > fieldset .signup__field {
   display: flex;
   flex-flow: column;
 }
