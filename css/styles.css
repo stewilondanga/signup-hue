@@ -404,13 +404,14 @@ h1.red::after {
   animation: pulse-red 2s ease alternate infinite;
 }
 
-/*@keyframes pulse-red {
+@keyframes pulse-red {
   100% {
     margin-left: 0.5px;
     color: rgba(255, 0, 0, 0.35);
   }
 }
-input.red:hover {
+
+/*input.red:hover {
   border-bottom: 2px solid red;
 }
 input.red:focus {
