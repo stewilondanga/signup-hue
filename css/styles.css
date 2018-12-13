@@ -299,12 +299,13 @@ form.form {
   align-self: center;
 }
 
-/*.form > .signup__amazing {
+.form>.signup__amazing {
   margin-top: 10px;
   flex: auto;
   align-self: center;
 }
-.form > .signup__amazing input[type="checkbox"],
+
+/*.form > .signup__amazing input[type="checkbox"],
 .form > .signup__amazing > label {
   cursor: pointer;
 }
