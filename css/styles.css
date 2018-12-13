@@ -294,11 +294,12 @@ form.form {
   margin: 12px 0;
 }
 
-/*.form > fieldset .signup__field > .field__radio-inputs {
+.form>fieldset .signup__field>.field__radio-inputs {
   flex: auto;
   align-self: center;
 }
-.form > .signup__amazing {
+
+/*.form > .signup__amazing {
   margin-top: 10px;
   flex: auto;
   align-self: center;
