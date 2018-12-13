@@ -580,12 +580,12 @@ fieldset.purple:hover {
   box-shadow: 0px 0px 0px 4px purple;
 }
 
-/*.containers {
+.containers {
   width: 520px;
   margin: 20px auto;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
