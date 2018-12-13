@@ -472,9 +472,10 @@ input.green:focus {
   border-bottom: 2px solid green;
 }
 
-/*fieldset.green:hover {
+fieldset.green:hover {
   box-shadow: 0px 0px 0px 4px green;
 }
+
 /**
 * blue color
 */
