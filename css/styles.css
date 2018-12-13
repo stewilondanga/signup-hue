@@ -337,10 +337,11 @@ html.pink {
   }
 }
 
-/*button.pink:hover {
+button.pink:hover {
   background-color: rgba(252, 81, 133, 0.12);
 }
-button.pink:active {
+
+/*button.pink:active {
   background-color: rgba(252, 81, 133, 0.25);
 }
 h1.pink::after {
