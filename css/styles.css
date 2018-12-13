@@ -375,10 +375,11 @@ fieldset.pink:hover {
 /**
 * red color
 */
-/*html.red {
+html.red {
   animation: fill--red 2s ease-in-out alternate infinite;
 }
-@keyframes fill--red {
+
+/*@keyframes fill--red {
   from {
     background-color: #ffe7e7;
   }
