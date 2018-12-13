@@ -6,7 +6,7 @@ var navigate = (function() {
     $('.' + dataName).toggle();
   });
 })();
-/*
+
 // Default styles
 document.getElementsByTagName("html")[0].className = "pink";
 document.getElementById("title").className = "pink";
@@ -15,7 +15,7 @@ var inputArray = document.getElementsByTagName("input");
 for (var i = 0; i < inputArray.length; i++) {
   document.getElementsByTagName("input")[i].className = "pink";
 }
-document.getElementById("submit").className = "pink";
+/*document.getElementById("submit").className = "pink";
 
 // Select event
 document.getElementById("fav_color").onchange = function() {
