@@ -379,15 +379,17 @@ html.red {
   animation: fill--red 2s ease-in-out alternate infinite;
 }
 
-/*@keyframes fill--red {
+@keyframes fill--red {
   from {
     background-color: #ffe7e7;
   }
+
   to {
     background-color: #ff7070;
   }
 }
-button.red:hover {
+
+/*button.red:hover {
   background-color: rgba(255, 0, 0, 0.12);
 }
 button.red:active {
