@@ -535,15 +535,17 @@ html.purple {
   animation: fill--purple 2s ease-in-out alternate infinite;
 }
 
-/*@keyframes fill--purple {
+@keyframes fill--purple {
   from {
     background-color: #ffe8ff;
   }
+
   to {
     background-color: purple;
   }
 }
-button.purple:hover {
+
+/*button.purple:hover {
   background-color: rgba(128, 0, 128, 0.12);
 }
 button.purple:active {
