@@ -77,14 +77,14 @@ p {
   }
 }
 
-/*@media (min-width: 600px) and (max-width: 899px) {
+@media (min-width: 600px) and (max-width: 899px) {
   #grid {
     grid-template-rows: 5% auto auto;
     grid-template-columns: 25% auto 25%;
   }
 }
 
-@media (min-width: 900px) and (max-width: 1199px) {
+/*@media (min-width: 900px) and (max-width: 1199px) {
   #grid {
     grid-template-rows: 5% auto auto;
     grid-template-columns: 30% auto 30%;
