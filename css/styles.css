@@ -368,9 +368,10 @@ input.pink:focus {
   border-bottom: 2px solid #FC5185;
 }
 
-/*fieldset.pink:hover {
+fieldset.pink:hover {
   box-shadow: 0px 0px 0px 4px #FC5185;
 }
+
 /**
 * red color
 */
