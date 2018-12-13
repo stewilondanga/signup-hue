@@ -501,13 +501,14 @@ button.blue:active {
   background-color: rgba(0, 0, 255, 0.25);
 }
 
-/*h1.blue::after {
+h1.blue::after {
   content: '  ❤';
   margin-left: 5px;
   color: blue;
   animation: pulse-blue 2s ease alternate infinite;
 }
-@keyframes pulse-blue {
+
+/*@keyframes pulse-blue {
   100% {
     margin-left: 0.5px;
     color: rgba(0, 0, 255, 0.35);
