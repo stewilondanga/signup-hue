@@ -524,9 +524,10 @@ input.blue:focus {
   border-bottom: 2px solid blue;
 }
 
-/*fieldset.blue:hover {
+fieldset.blue:hover {
   box-shadow: 0px 0px 0px 4px blue;
 }
+
 /**
 * purple color
 */
