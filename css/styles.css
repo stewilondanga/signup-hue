@@ -352,13 +352,14 @@ h1.pink::after {
   animation: pulse-pink 2s ease alternate infinite;
 }
 
-/*@keyframes pulse-pink {
+@keyframes pulse-pink {
   100% {
     margin-left: 0.5px;
     color: rgba(252, 81, 133, 0.35);
   }
 }
-input.pink:hover {
+
+/*input.pink:hover {
   border-bottom: 2px solid #FC5185;
 }
 input.pink:focus {
