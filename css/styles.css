@@ -240,11 +240,12 @@ form.form {
   /* For legacy WebKit based browsers */
   -moz-box-sizing: border-box;
   /* For legacy (Firefox <29) Gecko based browsers */
-  /*box-sizing: border-box;
+  box-sizing: border-box;
   min-height: 30px;
-  transition: background 250ms ease-in-out;
+  transition: background-color 250ms ease-in-out;
 }
-.form > fieldset {
+
+/*.form > fieldset {
   flex: auto;
   flex-flow: column;
   align-self: center;
@@ -307,10 +308,10 @@ form.form {
 * Layout colors
 ********************************************
 */
-  /**
+/**
 * (default) pink color
 */
-  /*html.pink {
+/*html.pink {
   animation: fill--pink 2s ease-in-out alternate infinite;
 }
 @keyframes fill--pink {
@@ -352,7 +353,7 @@ fieldset.pink:hover {
 /**
 * red color
 */
-  /*html.red {
+/*html.red {
   animation: fill--red 2s ease-in-out alternate infinite;
 }
 @keyframes fill--red {
@@ -394,7 +395,7 @@ fieldset.red:hover {
 /**
 * green color
 */
-  /*html.green {
+/*html.green {
   animation: fill--green 2s ease-in-out alternate infinite;
 }
 @keyframes fill--green {
@@ -436,7 +437,7 @@ fieldset.green:hover {
 /**
 * blue color
 */
-  /*html.blue {
+/*html.blue {
   animation: fill--blue 2s ease-in-out alternate infinite;
 }
 @keyframes fill--blue {
@@ -478,7 +479,7 @@ fieldset.blue:hover {
 /**
 * purple color
 */
-  /*html.purple {
+/*html.purple {
   animation: fill--purple 2s ease-in-out alternate infinite;
 }
 @keyframes fill--purple {
