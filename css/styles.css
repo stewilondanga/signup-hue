@@ -567,10 +567,11 @@ h1.purple::after {
   }
 }
 
-/*input.purple:hover {
+input.purple:hover {
   border-bottom: 2px solid purple;
 }
-input.purple:focus {
+
+/*input.purple:focus {
   background-color: #ffe8ff;
   border-bottom: 2px solid purple;
 }
