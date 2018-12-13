@@ -280,11 +280,12 @@ form.form {
   cursor: pointer;
 }
 
-/*.form > fieldset .signup__field select:focus {
+.form>fieldset .signup__field select:focus {
   outline-color: #666666;
   border: 1px solid #666666;
 }
-.form > fieldset .signup__field > .label {
+
+/*.form > fieldset .signup__field > .label {
   font-weight: bold;
 }
 .form > fieldset .signup__field > .select-field,
