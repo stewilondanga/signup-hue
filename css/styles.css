@@ -531,10 +531,11 @@ fieldset.blue:hover {
 /**
 * purple color
 */
-/*html.purple {
+html.purple {
   animation: fill--purple 2s ease-in-out alternate infinite;
 }
-@keyframes fill--purple {
+
+/*@keyframes fill--purple {
   from {
     background-color: #ffe8ff;
   }
