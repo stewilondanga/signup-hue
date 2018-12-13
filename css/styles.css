@@ -289,11 +289,12 @@ form.form {
   font-weight: bold;
 }
 
-/*.form > fieldset .signup__field > .select-field,
-.form > fieldset .signup__field > .field__radio-inputs {
+.form>fieldset .signup__field>.select-field,
+.form>fieldset .signup__field>.field__radio-inputs {
   margin: 12px 0;
 }
-.form > fieldset .signup__field > .field__radio-inputs {
+
+/*.form > fieldset .signup__field > .field__radio-inputs {
   flex: auto;
   align-self: center;
 }
