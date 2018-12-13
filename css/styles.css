@@ -345,13 +345,14 @@ button.pink:active {
   background-color: rgba(252, 81, 133, 0.25);
 }
 
-/*h1.pink::after {
+h1.pink::after {
   content: '  ❤';
   margin-left: 5px;
   color: #FC5185;
   animation: pulse-pink 2s ease alternate infinite;
 }
-@keyframes pulse-pink {
+
+/*@keyframes pulse-pink {
   100% {
     margin-left: 0.5px;
     color: rgba(252, 81, 133, 0.35);
