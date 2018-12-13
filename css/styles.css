@@ -222,10 +222,11 @@ form.form {
   padding-bottom: 3px;
 }
 
-/*.form > .signup__field label::after {
+.form>.signup__field label::after {
   content: ':';
 }
-.form > .signup__field input {
+
+/*.form > .signup__field input {
   color: #666666;
   border-bottom: 1px solid #9E9E9E;
   border-top: none;
