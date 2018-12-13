@@ -389,10 +389,11 @@ html.red {
   }
 }
 
-/*button.red:hover {
+button.red:hover {
   background-color: rgba(255, 0, 0, 0.12);
 }
-button.red:active {
+
+/*button.red:active {
   background-color: rgba(255, 0, 0, 0.25);
 }
 h1.red::after {
