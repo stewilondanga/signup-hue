@@ -273,13 +273,14 @@ form.form {
   align-self: center;
 }
 
-/*.form > fieldset .signup__field select {
+.form>fieldset .signup__field select {
   border: none;
   width: 100%;
   outline: none;
   cursor: pointer;
 }
-.form > fieldset .signup__field select:focus {
+
+/*.form > fieldset .signup__field select:focus {
   outline-color: #666666;
   border: 1px solid #666666;
 }
