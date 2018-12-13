@@ -571,11 +571,12 @@ input.purple:hover {
   border-bottom: 2px solid purple;
 }
 
-/*input.purple:focus {
+input.purple:focus {
   background-color: #ffe8ff;
   border-bottom: 2px solid purple;
 }
-fieldset.purple:hover {
+
+/*fieldset.purple:hover {
   box-shadow: 0px 0px 0px 4px purple;
 }
 
