@@ -493,10 +493,11 @@ html.blue {
   }
 }
 
-/*button.blue:hover {
+button.blue:hover {
   background-color: rgba(0, 0, 255, 0.12);
 }
-button.blue:active {
+
+/*button.blue:active {
   background-color: rgba(0, 0, 255, 0.25);
 }
 h1.blue::after {
