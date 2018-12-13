@@ -65,44 +65,51 @@ p {
 /**
 * grid container
 */
-/*#grid {
+#grid {
   height: 100%;
   display: grid;
 }
-@media (max-width: 599px) {
+
+/*@media (max-width: 599px) {
   #grid {
     grid-template-rows: 5% auto auto;
     grid-template-columns: 5% auto 5%;
   }
 }
+
 @media (min-width: 600px) and (max-width: 899px) {
   #grid {
     grid-template-rows: 5% auto auto;
     grid-template-columns: 25% auto 25%;
   }
 }
+
 @media (min-width: 900px) and (max-width: 1199px) {
   #grid {
     grid-template-rows: 5% auto auto;
     grid-template-columns: 30% auto 30%;
   }
 }
+
 @media (min-width: 1200px) and (max-width: 1799px) {
   #grid {
     grid-template-rows: 5% auto auto;
     grid-template-columns: 35% auto 35%;
   }
 }
+
 @media (min-width: 1800px) {
   #grid {
     grid-template-rows: 5% auto 10%;
     grid-template-columns: 35% auto 35%;
   }
 }
+
 #grid__content {
   grid-column: 2;
   grid-row: 2;
 }
+
 /**
 ********************************************
 * Flex components
