@@ -91,14 +91,14 @@ p {
   }
 }
 
-/*@media (min-width: 1200px) and (max-width: 1799px) {
+@media (min-width: 1200px) and (max-width: 1799px) {
   #grid {
     grid-template-rows: 5% auto auto;
     grid-template-columns: 35% auto 35%;
   }
 }
 
-@media (min-width: 1800px) {
+/*@media (min-width: 1800px) {
   #grid {
     grid-template-rows: 5% auto 10%;
     grid-template-columns: 35% auto 35%;
