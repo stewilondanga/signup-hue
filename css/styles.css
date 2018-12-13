@@ -359,10 +359,11 @@ h1.pink::after {
   }
 }
 
-/*input.pink:hover {
+input.pink:hover {
   border-bottom: 2px solid #FC5185;
 }
-input.pink:focus {
+
+/*input.pink:focus {
   background-color: #FFE7EE;
   border-bottom: 2px solid #FC5185;
 }
