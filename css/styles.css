@@ -118,7 +118,7 @@ p {
 /**
 * button
 */
-/*button {
+button {
   -webkit-tap-highlight-color: transparent;
   background-color: transparent;
   border: none;
@@ -145,7 +145,8 @@ p {
   vertical-align: middle;
   white-space: nowrap;
 }
-button:not([disabled]) {
+
+/*button:not([disabled]) {
   box-shadow: none;
   cursor: pointer;
 }
