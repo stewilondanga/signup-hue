@@ -266,13 +266,14 @@ form.form {
   flex-flow: column;
 }
 
-/*.form > fieldset .signup__field > label,
-.form > fieldset .signup__field > .label,
-.form > fieldset .signup__field > .select-field {
+.form>fieldset .signup__field>label,
+.form>fieldset .signup__field>.label,
+.form>fieldset .signup__field>.select-field {
   flex: auto;
   align-self: center;
 }
-.form > fieldset .signup__field select {
+
+/*.form > fieldset .signup__field select {
   border: none;
   width: 100%;
   outline: none;
