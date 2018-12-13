@@ -479,10 +479,11 @@ fieldset.green:hover {
 /**
 * blue color
 */
-/*html.blue {
+html.blue {
   animation: fill--blue 2s ease-in-out alternate infinite;
 }
-@keyframes fill--blue {
+
+/*@keyframes fill--blue {
   from {
     background-color: #e7e7ff;
   }
