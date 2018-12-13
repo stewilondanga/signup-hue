@@ -576,11 +576,11 @@ input.purple:focus {
   border-bottom: 2px solid purple;
 }
 
-/*fieldset.purple:hover {
+fieldset.purple:hover {
   box-shadow: 0px 0px 0px 4px purple;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
