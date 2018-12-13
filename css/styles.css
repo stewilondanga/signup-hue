@@ -202,11 +202,12 @@ form.form {
   flex-flow: column wrap;
 }
 
-/*.form > h1 {
+.form>h1 {
   text-transform: uppercase;
   align-self: center;
 }
-.form > .signup__field {
+
+/*.form > .signup__field {
   flex: 1;
   min-width: 70%;
   align-self: center;
