@@ -245,7 +245,7 @@ form.form {
   transition: background-color 250ms ease-in-out;
 }
 
-/*.form > fieldset {
+.form>fieldset {
   flex: auto;
   flex-flow: column;
   align-self: center;
@@ -256,7 +256,8 @@ form.form {
   padding: 10px;
   margin-top: 20px;
 }
-.form > fieldset legend {
+
+/*.form > fieldset legend {
   display: none;
 }
 .form > fieldset .signup__field {
