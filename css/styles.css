@@ -515,10 +515,11 @@ h1.blue::after {
   }
 }
 
-/*input.blue:hover {
+input.blue:hover {
   border-bottom: 2px solid blue;
 }
-input.blue:focus {
+
+/*input.blue:focus {
   background-color: #e7e7ff;
   border-bottom: 2px solid blue;
 }
