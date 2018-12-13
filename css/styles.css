@@ -1,3 +1,24 @@
+/**
+* responsive strategy
+*/
+/**
+* style variables
+*/
+/**
+* style colors
+*/
+/**
+* root style
+*/
+/*:root,
+html,
+body {
+  font-family: Lato, sans-serif;
+  font-size: 14px;
+  height: 100%;
+  margin: 0;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -26,26 +47,6 @@
   font-style: normal;
   font-weight: 400;
   src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wWw.ttf) format('truetype');
-}
-/**
-* responsive strategy
-*/
-/**
-* style variables
-*/
-/**
-* style colors
-*/
-/**
-* root style
-*/
-/*:root,
-html,
-body {
-  font-family: Lato, sans-serif;
-  font-size: 14px;
-  height: 100%;
-  margin: 0;
 }
 /**
 * typography
@@ -223,9 +224,9 @@ button.raised:active {
   margin: 0;
   -webkit-box-sizing: border-box;
   /* For legacy WebKit based browsers */
-  /*-moz-box-sizing: border-box;
+/*-moz-box-sizing: border-box;
   /* For legacy (Firefox <29) Gecko based browsers */
-  /*box-sizing: border-box;
+/*box-sizing: border-box;
   min-height: 30px;
   transition: background 250ms ease-in-out;
 }
