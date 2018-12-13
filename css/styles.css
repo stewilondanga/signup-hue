@@ -431,15 +431,17 @@ html.green {
   animation: fill--green 2s ease-in-out alternate infinite;
 }
 
-/*@keyframes fill--green {
+@keyframes fill--green {
   from {
     background-color: #e8ffe8;
   }
+
   to {
     background-color: green;
   }
 }
-button.green:hover {
+
+/*button.green:hover {
   background-color: rgba(0, 128, 0, 0.12);
 }
 button.green:active {
