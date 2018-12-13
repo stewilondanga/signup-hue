@@ -456,13 +456,14 @@ h1.green::after {
   animation: pulse-green 2s ease alternate infinite;
 }
 
-/*@keyframes pulse-green {
+@keyframes pulse-green {
   100% {
     margin-left: 0.5px;
     color: rgba(0, 128, 0, 0.35);
   }
 }
-input.green:hover {
+
+/*input.green:hover {
   border-bottom: 2px solid green;
 }
 input.green:focus {
