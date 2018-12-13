@@ -310,10 +310,11 @@ form.form {
   cursor: pointer;
 }
 
-/*.form > .signup__button {
+.form>.signup__button {
   flex: auto;
   align-self: flex-end;
 }
+
 /**
 ********************************************
 * Layout colors
